@@ -60,8 +60,6 @@ http://localhost:4500
 - Deploy automatizado em ambiente AWS
 - Logs centralizados com ELK ou Grafana + Loki
 
-## 📸 Prints ou GIFs
-*(Adicione imagens ou vídeos aqui mostrando a aplicação em execução)*
 
 ## 🧑‍💻 Autor
 Desenvolvido por **David Pereira**.
